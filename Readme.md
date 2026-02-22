@@ -1,13 +1,13 @@
-# WEB NOTES – Simple URL Saver Chrome Extension
+# WEB NOTES – Simple URL & Notes Saver Chrome Extension
 
-WEB NOTES is a lightweight Chrome extension that allows users to save URLs for later viewing.  
+WEB NOTES is a lightweight Chrome extension that allows users to save URLs and Notes for later viewing.  
 You can manually enter links, store them locally, and open them anytime in a new tab.
 
 ---
 
 ## 🚀 Features
 
-- Save URLs manually
+- Save URLs & Notes manually
 - Save using Enter key
 - Persistent storage using `localStorage`
 - View saved links instantly
