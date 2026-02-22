@@ -3,7 +3,7 @@
     "name": "WEB NOTES",
     "version": "1.0",
     "description": "A simple extension to save URLs for later.",
-    "permissions": ["storage"],
+    "permissions": ["storage", "tabs"],
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"

@@ -38,9 +38,10 @@ button {
     border: 3px solid rgb(127, 142, 11);
     border-radius: 5px;
     margin-top: 20px;
-    list-style-type: none;
+    list-style: disc;
+    padding-left: 20px;
     min-width: 80%;
-    padding: 10px;
+    padding: 30px;
 }
 
 a {
@@ -63,4 +64,11 @@ a:hover {
 
 a:active {
   color: green;
+}
+
+#clear-btn{
+  background-color: transparent;
+  border: 3px solid rgb(127, 142, 11);
+  color: rgb(127, 142, 11);
+  padding: 8px;
 }
