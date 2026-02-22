@@ -69,7 +69,6 @@ The extension will now appear in your toolbar.
 
 ## 📌 Future Improvements (Optional Ideas)
 
-- Save current active tab automatically
 - Prevent duplicate URLs
 - Add delete button for individual links
 - Use `chrome.storage` instead of `localStorage`
